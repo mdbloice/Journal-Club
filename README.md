@@ -4,7 +4,7 @@ This repository contains the notebook presented in the Journal Club seminar on J
 
 ## Use
 
-To view a static version of the notebook, just open the `Journal-Club-ipynb` file directly.
+To view a static version of the notebook, just open the [Journal Club.ipynb](Journal Club.ipynb) file directly.
 
 To execute the notebook locally, clone this resository and run `jupyter notebook` from the command line in the repository's root directory.
 
