@@ -1,6 +1,6 @@
 # Journal Club Jupyter Seminar
 
-This repository contains the notebook presented in the Journal Club seminar on Jupyter for Winter Semester 2018. See [https://sites.google.com/view/biomedical-informatics-jc/](https://sites.google.com/view/biomedical-informatics-jc/) for more information.
+This repository contains the notebook presented in the [Journal Club](https://sites.google.com/view/biomedical-informatics-jc/) seminar on Jupyter for Winter Semester 2018. 
 
 ## Use
 
